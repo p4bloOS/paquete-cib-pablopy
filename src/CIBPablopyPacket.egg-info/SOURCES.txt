@@ -1,0 +1,9 @@
+LICENSE
+README.txt
+pyproject.toml
+src/__init__.py
+src/modulecio.py
+src/CIBPablopyPacket.egg-info/PKG-INFO
+src/CIBPablopyPacket.egg-info/SOURCES.txt
+src/CIBPablopyPacket.egg-info/dependency_links.txt
+src/CIBPablopyPacket.egg-info/top_level.txt

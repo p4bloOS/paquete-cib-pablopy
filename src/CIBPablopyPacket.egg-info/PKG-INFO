@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: CIBPablopyPacket
+Version: 0.0.1
+Summary: CIBPacket is a dummy module
+Author-email: Pablo Gimeno Hermán <pgimher@upv.edu.es>
+Project-URL: Homepage, https://github.com/pypa/CIBProject
+Project-URL: Issues, https://github.com/pypa/CIBProject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/plain
+License-File: LICENSE
+
+This Python fragment starts by initializing a list called "peliculas" containing movie titles. Then, it does nothing with the list.
+After defining the list, there is a function named "instrucciones" defined. This function takes no input. It prints three smart sentences in the standard output about the essentials of Python modules and packages. It prints one sentence each second.
+Actually this is a dummy package, it has only test purpouses.
