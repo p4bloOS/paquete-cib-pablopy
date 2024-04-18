@@ -16,3 +16,4 @@ def instrucciones():
     print("Para que un directorio se trasforme en paquete Python, agrégale un \
 __init.py__")
     time.sleep(1)
+    print("¡Has difrutado de la segunda versión de este paquete!")
